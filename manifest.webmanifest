@@ -1,0 +1,16 @@
+{
+  "name": "Procentowe Imperium 2.8 — Światowa Ekspansja",
+  "short_name": "Imperium 2.8",
+  "description": "Bar, browar, hurtownia, zadania i globalna ekspansja — gra offline na iPhone.",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d111b",
+  "theme_color": "#111724",
+  "icons": [
+    {"src":"./icon-192.png","type":"image/png","sizes":"192x192","purpose":"any maskable"},
+    {"src":"./icon-512.png","type":"image/png","sizes":"512x512","purpose":"any maskable"}
+  ]
+}

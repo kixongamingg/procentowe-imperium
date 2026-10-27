@@ -1,0 +1,20 @@
+PROCENTOWE IMPERIUM 2.8 — IPHONE / WEB APP
+==========================================
+
+To JEST ta sama gra 2.8 co na PC: bar, produkcja, hurtownia, zadania,
+prestiż, światowa ekspansja. Zmieniony został wyłącznie interfejs.
+
+Aby działała jak aplikacja na ekranie początkowym iPhone'a:
+1. Umieść CAŁĄ zawartość tego ZIP-a na zwykłym hostingu statycznym HTTPS
+   (np. GitHub Pages). Plik index.html i pozostałe pliki muszą leżeć obok siebie.
+2. Otwórz adres strony w Safari na iPhonie (nie w podglądzie aplikacji Pliki).
+3. W Safari naciśnij Udostępnij i wybierz „Dodaj do ekranu początkowego”.
+4. Uruchom z ikony. Po pierwszym poprawnym załadowaniu aplikacja korzysta
+   z pamięci offline; nie usuń danych witryny, bo zapis może przepaść.
+
+Zapis iPhone'a jest oddzielny od PC. W zakładce „Zapis” regularnie
+eksportuj plik JSON. Tryb prywatny nie jest odpowiedni do długiej gry.
+
+Ważne: sam ZIP nie jest aplikacją .ipa i nie instaluje się przez Pliki.
+Przeglądarkowy podgląd HTML z aplikacji Pliki może nie wykonywać JavaScript;
+do niezawodnej rozgrywki użyj Safari z hostowanym adresem HTTPS.
